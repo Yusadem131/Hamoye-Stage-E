@@ -1,3 +1,5 @@
+## Name: Abdulakeem Yusuf 
+## Hamoye ID:156c638cd081f000
 ## Hamoye-Stage-E
 # Data Set Information:
 ## The archive contains 92,016 measurements of electricity data gathered between September 2010 and February 2021.
